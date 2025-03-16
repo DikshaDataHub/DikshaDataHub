@@ -1,4 +1,4 @@
-# Hi, I'm Diksha! 👋
+<h1 align="center">Hi 👋, I'm Diksha</h1>
 
 ## 🚀 About Me
 
